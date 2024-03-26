@@ -41,6 +41,9 @@ Contributions take all kinds of shapes and sizes, and we welcome everyone! If yo
 * [Zacarias Benta](mailto:zacarias@lip.pt) - IT Engineer, [Laboratory of Instrumentation and Experimental Particle Physics (LIP)](https://ciencias.ulisboa.pt/en/lip)
   * Chat login: [@zacarias](https://chat.almalinux.org/almalinux/messages/@zacarias)
   * GitHub profile: [@zbenta](https://github.com/zbenta)
+* [César Ferreira](mailto:cesar@lip.pt) - IT Engineer, [National Distributed Computing Infrastructure (INCD)](https://incd.pt/?lang=en)
+  * Chat login: [@cesar](https://chat.almalinux.org/almalinux/messages/@cesar)
+  * GitHub profile: [@cesarpferreira](https://github.com/cesarpferreira)
 
 ## Additional information for SIG application approval
 
